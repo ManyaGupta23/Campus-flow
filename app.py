@@ -66,7 +66,7 @@ if "logged_in" not in st.session_state:
 if not st.session_state.logged_in:
     col1, col2 = st.columns([1.5, 1])
     with col1:
-        st.image("1000416614.jpg", use_container_width=True, caption="Welcome to the Digital Library Portal")
+        st.image("college_building.jpeg", use_container_width=True, caption="Welcome to the Digital Library Portal")
     with col2:
         st.markdown("<h1 style='color: #1E3A8A;'>Portal Login</h1>", unsafe_allow_html=True)
         u_name = st.text_input("Username")
