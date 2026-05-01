@@ -2,6 +2,7 @@ streamlit
 pandas
 openpyxl
 plotly
+reportlab
 fpdf2
 qrcode
 pillow
