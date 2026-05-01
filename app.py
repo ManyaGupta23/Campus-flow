@@ -1,4 +1,9 @@
-import streamlit as st import pandas as pd import os from datetime import datetime import plotly.express as px from reportlab.pdfgen import canvas
+import streamlit as st
+import pandas as pd 
+import os 
+from datetime import datetime 
+import plotly.express as px 
+from reportlab.pdfgen import canvas
 
 ======================================
 
