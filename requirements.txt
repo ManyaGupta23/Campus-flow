@@ -2,8 +2,8 @@ streamlit
 pandas
 openpyxl
 plotly
-fpdf
 reportlab
 qrcode
 pillow
-python-docx
+hashlib
+datetime
